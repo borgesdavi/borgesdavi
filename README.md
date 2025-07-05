@@ -1,6 +1,6 @@
 # Olá 👋
 
-**Eu sou Davi** - Eu sou estudante de Desenvolvimento de Sistemas.
+**Eu sou Davi** - Tenho 16 anos, sou do Brasil e estou cursando o 2º ano do Ensino Médio no SESI. Também estudo Desenvolvimento de Sistemas pelo SENAI.
 
 **`Desenvolvedor Estudante | Dísponível`**
 
