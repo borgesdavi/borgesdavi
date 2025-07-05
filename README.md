@@ -1,6 +1,6 @@
 # Olá 👋
 
-**Eu sou Davi** - Tenho 16 anos, sou do Brasil e estou cursando o 2º ano do Ensino Médio no SESI. Também estudo Desenvolvimento de Sistemas pelo SENAI.
+**Eu sou Davi** - Sou do Brasil, tenho 16 anos e estou cursando o 2º ano do Ensino Médio pelo SESI. Também curso de Desenvolvimento de Sistemas pelo SENAI. No tempo livre gosto de desenvolver diversas coisas.
 
 **`Desenvolvedor Estudante | Dísponível`**
 
