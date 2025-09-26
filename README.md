@@ -2,7 +2,7 @@
 
 **Eu sou Davi** - Sou do Brasil, tenho 16 anos e estou cursando o 2º ano do Ensino Médio pelo SESI. Também faço o curso de Desenvolvimento de Sistemas pelo SENAI. No tempo livre, gosto de desenvolver diversas coisas.
 
-**`Desenvolvedor Estudante | FullStack | Dísponível`**
+**`Desenvolvedor FullStack | Estudante | Dísponível`**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql)](https://skillicons.dev)
 
